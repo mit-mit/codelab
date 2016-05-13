@@ -13,8 +13,7 @@ VirtualBox.
 
 ### Option 1: Using a pre-prepared image in VirtualBox
 
-This option is supported on all three operating systems, Windows, MacOS, and
-Linux.
+This option is supported on Windows and MacOS.
 
 First download the pre-prepared image: <a href="https://storage.googleapis.com/dartino-archive/channels/dev/raw/0.4.0-dev.1.1/sdk/codelab.ova"
 onclick="ga('send', 'event', 'Downloads', 'VirtualBox VM');">VirtualBox Image File</a>. NOTE: This is a very large file; approx.
