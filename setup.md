@@ -19,7 +19,7 @@ Linux.
 First download the pre-prepared image. NOTE: This is a very large file; almost 2
 GB.
 
-* <a href="https://storage.googleapis.com/dartino-archive/channels/dev/raw/0.4.0-dev.1.1/sdk/DartinoCodelab.ova"
+* <a href="https://storage.googleapis.com/dartino-archive/channels/dev/raw/0.4.0-dev.1.1/sdk/codelab.ova"
 onclick="ga('send', 'event', 'Downloads', 'VirtualBox VM');">VirtualBox Image File</a>
 
 Next install [VirtualBox](https://www.virtualbox.org/).
@@ -79,7 +79,7 @@ Install required support libraries, and configure USB:
 
 * On Linux:
   1. We need 32-bit support libraries; in a Terminal run: `sudo apt-get install libc6-i386 lib32stdc++6`
-  1. We need to configure USB; in a Terminal run: `sudo cp platforms/stm32f746g-discovery/config/49-stlinkv2-1.rules /etc/udev/rules.d`
+  1. We need to configure USB; in a Terminal run: `sudo cp dartino-sdk/platforms/stm32f746g-discovery/config/49-stlinkv2-1.rules /etc/udev/rules.d`
 
 The Dartino tools are based on the [Atom editor](http://atom.io). This is a
 highly customizable editor created by the team behind GitHub. Install Atom from
