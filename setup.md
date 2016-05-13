@@ -16,11 +16,9 @@ VirtualBox.
 This option is supported on all three operating systems, Windows, MacOS, and
 Linux.
 
-First download the pre-prepared image. NOTE: This is a very large file; almost 2
-GB.
-
-* <a href="https://storage.googleapis.com/dartino-archive/channels/dev/raw/0.4.0-dev.1.1/sdk/codelab.ova"
-onclick="ga('send', 'event', 'Downloads', 'VirtualBox VM');">VirtualBox Image File</a>
+First download the pre-prepared image: <a href="https://storage.googleapis.com/dartino-archive/channels/dev/raw/0.4.0-dev.1.1/sdk/codelab.ova"
+onclick="ga('send', 'event', 'Downloads', 'VirtualBox VM');">VirtualBox Image File</a>. NOTE: This is a very large file; approx.
+2.3 GB.
 
 Next install [VirtualBox](https://www.virtualbox.org/).
 
